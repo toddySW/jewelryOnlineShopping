@@ -1,0 +1,6 @@
+eclipse.preferences.version=1
+encoding//src/main/java/DiamondShop/Controller/Users/BaseController.java=UTF-8
+encoding//src/main/java/DiamondShop/Service/User/HomeServiceImpl.java=UTF-8
+encoding//src/main/java/DiamondShop/Service/User/IHomeService.java=UTF-8
+encoding//src/main/webapp/WEB-INF/views/user/product.jsp=UTF-8
+encoding//src/main/webapp/WEB-INF/views/user/products/product.jsp=UTF-8
